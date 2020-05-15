@@ -11,30 +11,28 @@ So that we have designed this project which focuses on resources , cheetsheets, 
 
 # **Contents**
   
-  * Books
+* Books
   
-  * Tutorials
+* Tutorials
   
-  * Courses
+* Courses
   
-  * Cheetsheets
-  
-  * Tools
-  
-  * Version Control Systems
-    * Git
-    * Github
-    * Butbucket
-    * Gitlab
+* Cheetsheets
+    
+* Tools and Version Control Systems
+   * Git
+   * Github
+   * Butbucket
+   * Gitlab
 
-  * CheetSheets 
-    * Cheetsheet For Git
-    * Cheetsheet For Bash
+* CheetSheets 
+   * Cheetsheet For Git
+   * Cheetsheet For Bash
   
-  * Open Source Contests
-    * Google Summer Of Code
-    * Girlscript Summer Of Code
-    * Hacktoberfest
-    * Redhat Open Source Contest
+* Open Source Contests
+   * Google Summer Of Code
+   * Girlscript Summer Of Code
+   * Hacktoberfest
+   * Redhat Open Source Contest
 
-  * Open Source Projects For Beginners
+* Open Source Projects For Beginners
