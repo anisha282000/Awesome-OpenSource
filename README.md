@@ -57,13 +57,32 @@ So that we have designed this project which focuses on resources , cheetsheets a
 
 ## **Tools and Version Control Systems**
 - [Git](#Git)
-- [Mercurials](#Mercurials)
+- [Mercurial](#Mercurial)
 - [Github](#Github)
 - [Butbucket](#Bitbucket)
 - [Gitlab](#Gitlab)
 
+### **Git**
+-
+-
+
+### **Mercurial**
+-
+-
 
 
+### **Github**
+-
+-
+
+### **Bitbucket**
+-
+-
+
+
+### **Gitlab**
+-
+-
 
 
 ## **Open Source Contests**
