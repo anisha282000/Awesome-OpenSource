@@ -5,8 +5,7 @@ Issues sections always open to solve some sort of bugs.
 ## Contents
    * [Getting Started](#Getting-Started) 
    * [How To Do Contributions in Awesome OpenSource](#How-To-Do-Contributions-in-Awesome-OpenSource)
-   * [How To Do PR](#How-To-Do-PR)
-   * [How To Submit PR](#How-To-Submit-PR)
+   * [How To Do PR And Submission](How-To-Do-PR-And-Submission)
 
 ### Getting Started
 1. So for the first time contributor just Just go to to our README for resources which will help you to understand basics.
