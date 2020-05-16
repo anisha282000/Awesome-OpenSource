@@ -18,11 +18,11 @@ So that we have designed this project which focuses on resources , cheetsheets a
   
 * [Tutorials](#Tutorials)
   
-* [Courses](#Courses)
+* [Videos And Courses](#Videos-And-Courses)
   
 * [Cheetsheets](#Cheetsheets)
     
-* [Tools and Version Control Systems](#Tools-and-Version-Control-Systems)
+* [Tools And Version Control Systems](#Tools-and-Version-Control-Systems)
 
 * [Open Source Contests](#Open-Source-Contests)
 
@@ -32,23 +32,19 @@ So that we have designed this project which focuses on resources , cheetsheets a
 ## **Books**
 
 - [The Success of Open Source by Steven Weber](https://www.amazon.com/Success-Open-Source-Steven-Weber/dp/0674018583) - Learn some basic
-- [Open Sources 2.0: The Continuing Evolution by Chris Dibona](https://www.amazon.com/Open-Sources-2-0-Continuing-Evolution/dp/0596008023) - 
--
+- [Open Sources 2.0: The Continuing Evolution by Chris Dibona](https://www.amazon.com/Open-Sources-2-0-Continuing-Evolution/dp/0596008023) - Good For Everyone
 
 
 ## **Tutorials**
--
--
--
--
+- [OSS For Beginner's](https://www.faridrifaie.my.id/2019/03/oss-contribution-for-beginners.html)
+- [How To Contribute Guide](https://opensource.guide/how-to-contribute/)
+- [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/)
 
 
 
-## **Courses**
--
--
--
--
+## **Videos And Courses**
+- [Open-Source-Software-Development](https://www.coursera.org/learn/open-source-software-development-methods)
+- [Contribution In Open ](https://www.youtube.com/watch?v=k6KcaMffxac)
 
 
 ## **CheetSheets** 
@@ -99,3 +95,7 @@ So that we have designed this project which focuses on resources , cheetsheets a
 ### **Open Source Projects For Beginners**
 -
 -
+
+
+# LICENSE
+**Awesome-OpenSource** is under [LICENSE](LICENSE) of **Apache License Version 2.0**.
