@@ -30,92 +30,72 @@ So that we have designed this project which focuses on resources , cheetsheets a
 
 
 ## **Books**
-     * [The Success of Open Source by Steven Weber](https://www.amazon.com/Success-Open-Source-Steven-Weber/dp/0674018583) - Learn some basic
-     * [Open Sources 2.0: The Continuing Evolution by Chris Dibona](https://www.amazon.com/Open-Sources-2-0-Continuing-Evolution/dp/0596008023) - 
-     *
-     *
-     *
+
+- [The Success of Open Source by Steven Weber](https://www.amazon.com/Success-Open-Source-Steven-Weber/dp/0674018583) - Learn some basic
+- [Open Sources 2.0: The Continuing Evolution by Chris Dibona](https://www.amazon.com/Open-Sources-2-0-Continuing-Evolution/dp/0596008023) - 
+-
 
 
 ## **Tutorials**
-     *
-     *
-     *
-     *
-     *
-     *
-     *
+-
+-
+-
+-
+
 
 
 ## **Courses**
-     *
-     *
-     *
-     *
-     *
-     *
-     *
+-
+-
+-
+-
 
 
 ## **CheetSheets** 
-     * 
-     * 
-     *
-     *
-     *
-     *
-     *
+-
+-
+-
+-
+
 
 
 ## **Tools and Version Control Systems**
-     * [Git](#Git)
-     * [Mercurials](#Mercurials)
-     * [Github](#Github)
-     * [Butbucket](#Bitbucket)
-     * [Gitlab](#Gitlab)
+- [Git](#Git)
+- [Mercurials](#Mercurials)
+- [Github](#Github)
+- [Butbucket](#Bitbucket)
+- [Gitlab](#Gitlab)
 
 
 
 
 
 ## **Open Source Contests**
-     * [Google Summer Of Code](#Google-Summer-Of-Code)
-     * [Girlscript Summer Of Code](#Girlscript-Summer-Of-Code)
-     * [Hacktoberfest](#Hacktoberfest)
-     * [Redhat Open Source Contest](#Redhat-Open-Source-Contest)
+- [Google Summer Of Code](#Google-Summer-Of-Code)
+- [Girlscript Summer Of Code](#Girlscript-Summer-Of-Code)
+- [Hacktoberfest](#Hacktoberfest)
+- [Redhat Open Source Contest](#Redhat-Open-Source-Contest)
 
 ### **Google Summer Of Code**
-      * 
-      *
-      *
-      *
+-
+-
+
 
 ### **Girlscript Summer Of Code**
-      *
-      *
-      *
-      *
+-
+-
+
 
 ### **Hacktoberfest**
-      *
-      *
-      *
-      *
+-
+-
+
 
 ### **Redhat Open Source Contest**
-      *
-      *
-
-
-
-
-
+-
+-
 
 
 ### **Open Source Projects For Beginners**
-      *
-      * 
-      *
-      *
-      *
-      *
+-
+-
